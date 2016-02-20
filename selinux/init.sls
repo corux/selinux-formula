@@ -1,0 +1,2 @@
+policycoreutils-python:
+  pkg.installed
